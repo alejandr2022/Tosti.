@@ -64,10 +64,10 @@ header a:visited {
 }
 
 .landing-img-home {
-    background-image: url(https://images.pexels.com/photos/5634027/pexels-photo-5634027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(./imagenes/landing.jpeg);
 }
 .landing-img-menu {
-    background-image: url(https://images.pexels.com/photos/6287295/pexels-photo-6287295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(./imagenes/menu.jpeg);
 }
 
 .landing-text {
